@@ -1,10 +1,12 @@
-site_name: 'Awesome MicroPython'
+site_name: 'Awesome mPython'
 site_url: 'http://awesome-micropython.com'
 site_description: 'A curated list of MicroPython libraries, frameworks, software and resources.'
 site_author: 'Mike Causer'
-repo_name: 'mcauser/awesome-micropython'
-repo_url: 'https://github.com/mcauser/awesome-micropython'
+repo_name: 'tangliufeng/awesome-micropython'
+repo_url: 'https://github.com/tangliufeng/awesome-micropython'
 edit_uri: ''
+
+
 theme:
   name: 'material'
   language: 'en'
