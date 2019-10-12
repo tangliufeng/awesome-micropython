@@ -10,7 +10,7 @@ edit_uri: ''
 theme:
   name: 'material'
   language: 'en'
-  logo: 'img/logo.svg'
+  # logo: 'img/logo.svg'
   favicon: 'img/favicon.ico'
   palette:
     primary: 'teal'
