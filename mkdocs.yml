@@ -1,5 +1,5 @@
 site_name: 'Awesome mPython'
-site_url: 'http://awesome-micropython.com'
+site_url: 'https://github.com/tangliufeng/awesome-micropython'
 site_description: 'A curated list of MicroPython libraries, frameworks, software and resources.'
 site_author: 'Mike Causer'
 repo_name: 'tangliufeng/awesome-micropython'
